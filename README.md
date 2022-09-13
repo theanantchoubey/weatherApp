@@ -21,3 +21,9 @@ Special Features:
 
 Click on the image to watch the Video :
 [![Watch the video](public/images/weatherApp.png)](https://youtu.be/ZI5FMC-38SU);
+
+Weather Forecast Section :
+[![Watch the video](public/images/weatherForecast.png)](https://youtu.be/ZI5FMC-38SU);
+
+About Section : 
+[![Watch the video](public/images/aboutWeatherApp.png)](https://youtu.be/ZI5FMC-38SU);
